@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptPwd", "EncryptPwd\EncryptPwd.csproj", "{1878EFA3-11E2-4216-BE50-0A31EFC2A1B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1878EFA3-11E2-4216-BE50-0A31EFC2A1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1878EFA3-11E2-4216-BE50-0A31EFC2A1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1878EFA3-11E2-4216-BE50-0A31EFC2A1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1878EFA3-11E2-4216-BE50-0A31EFC2A1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56EC55A5-7C96-4F4C-9B8B-77212CDC3B0D}
+	EndGlobalSection
+EndGlobal
